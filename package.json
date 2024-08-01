@@ -1,5 +1,5 @@
 {
-  "name": "results-summary-component-solution",
+  "name": "component-solution",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://renatoegusquiza.github.io/results-summary-component",
@@ -7,11 +7,11 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "component-solution": "file:",
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "^5.0.1",
-    "results-summary-component-solution": "file:",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
