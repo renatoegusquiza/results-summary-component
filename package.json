@@ -1,5 +1,5 @@
 {
-  "name": "results-summary-component-main-solution",
+  "name": "results-summary-component-solution",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://renatoegusquiza.github.io/results-summary-component",
@@ -11,7 +11,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "^5.0.1",
-    "results-summary-component-main-solution": "file:",
+    "results-summary-component-solution": "file:",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
